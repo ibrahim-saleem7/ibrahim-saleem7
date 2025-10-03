@@ -1,4 +1,4 @@
-<h2 align="left">console.log( "Hello World👋! My name is Ibrahim and I'm a MEAN Stack Developer. " );</h2>
+<h2 align="left">console.log( "Hello World👋! My name is Ibrahim and I'm a Full Stack Developer. " );</h2>
 
 ###
 
